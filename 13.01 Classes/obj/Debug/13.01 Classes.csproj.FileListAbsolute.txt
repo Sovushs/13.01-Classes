@@ -1,0 +1,7 @@
+C:\Users\comic\source\repos\13.01 Classes\bin\Debug\13.01 Classes.exe.config
+C:\Users\comic\source\repos\13.01 Classes\bin\Debug\13.01 Classes.exe
+C:\Users\comic\source\repos\13.01 Classes\bin\Debug\13.01 Classes.pdb
+C:\Users\comic\source\repos\13.01 Classes\obj\Debug\13.01 Classes.csproj.AssemblyReference.cache
+C:\Users\comic\source\repos\13.01 Classes\obj\Debug\13.01 Classes.csproj.CoreCompileInputs.cache
+C:\Users\comic\source\repos\13.01 Classes\obj\Debug\13.01 Classes.exe
+C:\Users\comic\source\repos\13.01 Classes\obj\Debug\13.01 Classes.pdb
